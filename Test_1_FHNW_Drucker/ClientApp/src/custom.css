@@ -1,0 +1,15 @@
+/* Provide sufficient contrast against white background */
+
+
+header{
+    background-color:orange;
+}
+.btn-Wartung {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0.2em 0.4em;
+    background-color: #3333ff;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3333ff;
+}

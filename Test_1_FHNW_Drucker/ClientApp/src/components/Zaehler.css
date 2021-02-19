@@ -1,0 +1,72 @@
+﻿td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+table {
+    margin: 20px;
+}
+
+.container1{
+    display: grid;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+.item1{
+    grid-row-start: 1;
+    grid-row-end:2;
+    grid-column-start: 1;
+    grid-column-end:2;
+
+}
+
+.item2 {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+}
+
+.right{
+    position: absolute;
+    right: 170px;
+}
+
+#right1{
+    position: absolute;
+    right: 170px;
+    top: 210px;
+}
+
+#rightBG1 {
+    position: absolute;
+    right: 170px;
+    top: 297px;
+}
+
+#rightBG2 {
+    position: absolute;
+    right: 170px;
+    top: 327px;
+}
+
+#rightBG3 {
+    position: absolute;
+    right: 170px;
+    top: 352px;
+}
+
+.rightbtn_save{
+    position: absolute;
+    right: 170px;
+    top: 385px;
+}
+
+.rightbtn_Wartung{
+    position: absolute;
+    right: 170px;
+    top: 435px;
+}
